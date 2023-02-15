@@ -1,12 +1,13 @@
 # Mohamed-ammar-91
 
 <details>
-<summary>My top languages</summary>
+<summary>My profissional</summary>
   
 | Rank |  Languages |
 |-----:| -----------|
-|     1|  Javascript|
-|     2|  Python    |
-|     3|  SQL       |
+|     1|  PYTHON    |
+|     2|  HTML      |
+|     3|  CSS       |
+|     4|  SQL       |
 
 </details>
